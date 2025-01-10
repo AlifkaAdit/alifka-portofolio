@@ -1455,7 +1455,9 @@ body {
   height: 30%;
   float: left;
   margin: 30px;
+  border-radius: 10px;
 }
+
 
 /* Gallery Section End */
     
